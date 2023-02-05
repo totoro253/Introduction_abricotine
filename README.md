@@ -7,7 +7,8 @@ README.MD. The default layout
 is comparitive with Notepad although
 it has comparitive functions from a rich
 text editor.
-____________________________________________________________________________________________________________________
+<br>
+<br>
 ## Examples 
 ### Second brain
 Second brain concept could
@@ -27,7 +28,7 @@ const HelloWorld = () => {
 }
 export default HelloWorld
 ```
-____________________________________________________________________________________________________________________
+___________________________________________________________________________________________________________________
 ### Settings
 #### Styling of text(Select text and use keyboard combinations)
 Itallic		= CTRL + I <br>
@@ -42,8 +43,34 @@ H4		= "####" <br>
 H5		= "#####"<br>
 #### Insert
 Codeblock	= Same notation as Github markdown
-____________________________________________________________________________________________________________________
 ## Preview
 ### Abricotine 
 [](url)
 ![screenshot1](https://user-images.githubusercontent.com/61892539/216796936-17174347-b33c-4093-8635-9696abcb3ff0.png)
+
+## Installation (downloads available)
+```
+Abricotine-1.1.4-mac.zip
+86.2 MB
+Jun 9, 2022
+Abricotine-1.1.4-mac.zip.blockmap
+94.9 KB
+Jun 9, 2022
+Abricotine-1.1.4.dmg
+89.4 MB
+Jun 9, 2022
+Abricotine-1.1.4.dmg.blockmap
+96.2 KB
+Jun 9, 2022
+abricotine-1.1.4.x86_64.rpm
+63.5 MB
+Jun 9, 2022
+Abricotine-Setup-1.1.4.exe
+68.4 MB
+Jun 9, 2022
+Abricotine-Setup-1.1.4.exe.blockmap
+73.4 KB
+Jun 9, 2022
+abricotine_1.1.4_amd64.deb
+
+```
