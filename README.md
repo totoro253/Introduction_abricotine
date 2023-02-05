@@ -1,4 +1,4 @@
-#Abricotine
+<h1>Abricotine</h1>
 
 ## What is abricotine?
 Abricotine is a markdown which feels intuitive
