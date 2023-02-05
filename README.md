@@ -36,4 +36,5 @@ export default HelloWorld
 
 ## Preview
 ### Abricotine 
-### Result in browser
+[](url)
+![screenshot1](https://user-images.githubusercontent.com/61892539/216796936-17174347-b33c-4093-8635-9696abcb3ff0.png)
